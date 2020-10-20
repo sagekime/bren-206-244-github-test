@@ -14,9 +14,9 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-red <- 10
+red <- 12
 
-yellow <- 15
+yellow <- 5
 
 orange <- red/yellow
 
